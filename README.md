@@ -8,5 +8,7 @@ Para rodar as resoluçoes dos exercícos basta utilizar um compilador de java, e
 Tecnologias utilizadas:
 
 Visual Studio Code: https://code.visualstudio.com/
+
 Java extention pack para Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+
 Compilador online: https://replit.com/languages/java10
